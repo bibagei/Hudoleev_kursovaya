@@ -1037,7 +1037,7 @@ public class Main { // Главный класс приложения
         } while (choice != 0);
     }
 
-    private void showAdminMenu() {
+    private void showAdminMenu() { // меню администратора
         int choice;
 
         do {
